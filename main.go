@@ -1,8 +1,13 @@
 package main
 
 
-import "fmt"
+
 
 func main() {
-	fmt.Println("Inside main in todo app")
+	todos := Todos{}
+	todos.add("Buy Pussy")
+	todos.add("Buy Licker")
+	todos.toggle(0)
+	todos.print()
+
 }
