@@ -40,5 +40,3 @@ func (todos *Todos) validateIndex(index int) error {
 
 }
 
-
-
