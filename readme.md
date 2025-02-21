@@ -14,7 +14,7 @@ A lightweight and efficient **Command-Line Todo Application** built with **Go**.
 
 
 
-<div class="tenor-gif-embed" data-postid="1514542213045805021" data-share-method="host" data-aspect-ratio="0.748299" data-width="100%"><a href="https://tenor.com/view/kanye-west-stare-blink-blank-stare-annoyed-gif-1514542213045805021">Kanye West Stare GIF</a>from <a href="https://tenor.com/search/kanye+west-gifs">Kanye West GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Kanye Blink GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHM1Z2Y5dDYxczRhZnFwbHd0ZGg1eXU0ZXY2dzM0YXF6bW14OXh3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zMCfqXkwjmTO8/giphy.gif)
 
 
 
