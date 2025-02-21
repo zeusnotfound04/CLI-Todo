@@ -14,7 +14,7 @@ A lightweight and efficient **Command-Line Todo Application** built with **Go**.
 
 
 
-![Kanye Blink GIF](https://media.tenor.com/iyEyhV2VFwEAAAAC/kanye-west-blink.gif)
+<div class="tenor-gif-embed" data-postid="1514542213045805021" data-share-method="host" data-aspect-ratio="0.748299" data-width="100%"><a href="https://tenor.com/view/kanye-west-stare-blink-blank-stare-annoyed-gif-1514542213045805021">Kanye West Stare GIF</a>from <a href="https://tenor.com/search/kanye+west-gifs">Kanye West GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
