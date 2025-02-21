@@ -14,7 +14,8 @@ A lightweight and efficient **Command-Line Todo Application** built with **Go**.
 
 
 
-(https://tenor.com/view/kanye-west-stare-blink-blank-stare-annoyed-gif-1514542213045805021)
+![Kanye Blink GIF](https://media.tenor.com/iyEyhV2VFwEAAAAC/kanye-west-blink.gif)
+
 
 
 Smooth and intuitive commands with zero clutter. 🧹
