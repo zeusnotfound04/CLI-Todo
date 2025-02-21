@@ -11,7 +11,10 @@ A lightweight and efficient **Command-Line Todo Application** built with **Go**.
 - 🔄 **Toggle** completion status
 - 🗑️ **Delete** todos
 - 📃 **List** all todos
-(`https://tenor.com/view/kanye-west-stare-blink-blank-stare-annoyed-gif-1514542213045805021`)
+
+
+
+![Alt Text](https://tenor.com/view/kanye-west-stare-blink-blank-stare-annoyed-gif-1514542213045805021)
 
 
 Smooth and intuitive commands with zero clutter. 🧹
