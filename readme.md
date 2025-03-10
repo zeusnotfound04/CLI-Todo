@@ -27,7 +27,7 @@ Smooth and intuitive commands with zero clutter. 🧹
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/cli-todo-app.git
+   git clone https://github.com/zeusnotfound04/cli-todo-app.git
    cd cli-todo-app
    ```
 
