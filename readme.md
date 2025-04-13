@@ -1,4 +1,4 @@
-# 📋 CLI Todo App in Go
+# 📋 CLI Todo App in Go!
 
 A lightweight and efficient **Command-Line Todo Application** built with **Go**. Manage your tasks directly from the terminal with simple commands. 🚀
 
